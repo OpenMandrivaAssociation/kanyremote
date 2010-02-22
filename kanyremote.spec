@@ -1,6 +1,6 @@
 Summary: KDE4 frontend for anyRemote
 Name: kanyremote
-Version: 5.11.2
+Version: 5.11.3
 Release: %mkrel 1
 License: GPLv2+
 Group: Graphical desktop/KDE
