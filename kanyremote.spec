@@ -1,15 +1,15 @@
-Summary: KDE4 frontend for anyRemote
-Name: kanyremote
-Version: 5.11.3
-Release: %mkrel 1
-License: GPLv2+
-Group: Graphical desktop/KDE
-BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-buildroot
-Buildarch: noarch
-Source0: http://nchc.dl.sourceforge.net/sourceforge/anyremote/%name-%version.tar.gz
-URL: http://anyremote.sourceforge.net/
-Requires: python-kde4
-Requires: python-pybluez
+Summary:	KDE4 frontend for anyRemote
+Name:		kanyremote
+Version:	5.11.4
+Release:	%mkrel 1
+License:	GPLv2+
+Group:		Graphical desktop/KDE
+BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
+Buildarch:	noarch
+Source0:	http://nchc.dl.sourceforge.net/sourceforge/anyremote/%name-%version.tar.gz
+URL:		http://anyremote.sourceforge.net/
+Requires:	python-kde4
+Requires:	python-pybluez
 
 %description
 kAnyRemote package is KDE GUI frontend for anyRemote written on PyKDE/PyQt.
