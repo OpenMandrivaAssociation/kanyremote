@@ -1,6 +1,6 @@
 Name:		kanyremote
-Version:	5.13
-Release:	%mkrel 1
+Version:	6.0
+Release:	1
 Summary:	KDE frontend for anyRemote Wireless remote control program
 License:	GPLv2+
 Group:		Graphical desktop/KDE
@@ -24,7 +24,6 @@ KDE front-end for anyremote Wireless remote control program.
 %make
 
 %install
-%__rm -rf %{buildroot}
 %makeinstall_std
 
 desktop-file-install \
@@ -39,9 +38,6 @@ desktop-file-install \
  %{buildroot}%{_datadir}/applications/%{name}.desktop
 
 %find_lang %{name}
-
-%clean
-%__rm -rf %{buildroot}
 
 %files -f %{name}.lang
 %{_bindir}/*
