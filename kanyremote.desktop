@@ -1,0 +1,26 @@
+[Desktop Entry]
+Exec=kanyremote
+Icon=kanyremote
+Type=Application
+Name=kanyremote
+GenericName=kanyremote
+GenericName[bg]=kanyremote
+GenericName[es]=kanyremote
+GenericName[fr]=kanyremote
+GenericName[it]=kanyremote
+GenericName[nl]=kanyremote
+GenericName[pl]=kanyremote
+GenericName[pt]=kanyremote
+GenericName[ru]=kanyremote
+GenericName[sk]=kanyremote
+Comment=Bluetooth remote control for KDE
+Comment[bg]=Bluetooth дистационно управление за KDE
+Comment[es]=Control Remoto Bluetooth con KDE
+Comment[fr]=Télécommande bluetooth pour KDE
+Comment[it]=Bluetooth control remoto con KDE
+Comment[nl]=Bluetooth afstandsbesturing voor KDE
+Comment[pl]=Zdalne Sterowanie Przez Bluetooth w KDE
+Comment[pt]=Controle Remoto Bluetooth para o KDE
+Comment[ru]=Пульт управления по Bluetooth для KDE
+Comment[sk]=Bluetooth Diaľkové ovládanie KDE
+Categories=System;KDE;Qt;Settings;HardwareSettings;
