@@ -1,6 +1,6 @@
 Name:	kanyremote
 Version:	6.1
-Release:	1
+Release:	2
 Summary:	KDE frontend for anyRemote Wireless remote control program
 License:	GPLv2+
 Group:	Graphical desktop/KDE
