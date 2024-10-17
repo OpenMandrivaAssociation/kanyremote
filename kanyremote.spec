@@ -5,7 +5,7 @@ Summary:	KDE frontend for anyRemote Wireless remote control program
 License:	GPLv2+
 Group:	Graphical desktop/KDE
 BuildArch:	noarch
-URL:	http://kde-apps.org/content/show.php/kAnyRemote?content=45047
+URL:	https://kde-apps.org/content/show.php/kAnyRemote?content=45047
 Source0:		http://sourceforge.net/projects/anyremote/files/%{name}/%{version}/%{name}-%{version}.tar.gz
 Source1:		%{name}.desktop
 BuildRequires:	kde4-macros
